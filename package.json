@@ -14,7 +14,7 @@
     "url": "https://github.com/mosuzi/ts-lib-starter.git"
   },
   "author": "mosuzi",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/preset-env": "^7.21.4",
     "@babel/preset-typescript": "^7.21.4",
